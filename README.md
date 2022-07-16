@@ -1,15 +1,13 @@
 # APITask
-Automate a POST and GET APIs using KATALON
+Automate a POST and GET APIs using RestAssured
 
-Steps for using the script:
-1. Download the KATALON, and create new account.
-2. Open the project folder using KATALON.
-3. Open the Test Explorer from the right side bar.
-4. Under the TestSuites, open the Trips APISuite.
-5. Click the Run button.
-6. Open the Repotrs folder under Test Explorer, to check the results.
+Steps for using the code:
+1. Create new folder on your local machine.
+2. Open the termenal from the created file and type: "git clone https://github.com/HayaFr/APITask.git".
+3. Open the cloned project using eclips or any other IDE.
+4. Open the class from path: RestAssureProject/src/test/java/TestMethods.java
+5. Run the code.
+6. from the IDE, open the terminal and type: "mvn test site". A report file should be created.
 
 Notes:
-1. Each API can be found under: Test Explorer => Object Repository.
-2. Each Global Variable can be found under: Test Explorer => Profiles => default
-3. The script can be found under: Test Explorer => Test Cases => Flights.
+The reports should be created under: target/site
