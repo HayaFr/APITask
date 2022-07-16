@@ -1,0 +1,8 @@
+{
+"checkIn": "2022-07-25",
+"checkOut": "2022-07-30",
+"adultsCount": 2,
+"kidsAges": [],
+"placeId": "ChIJr4F5XbhfGxUR6GXc-MAwHGM",
+"city": "Amman"
+}
